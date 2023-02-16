@@ -1,0 +1,15 @@
+
+
+File name: Limerick.txt
+Total number of words in Limerick.txt:32
+Top 3 most occurring words and their count: [('can', 4), ('A', 3), ('canner', 3)]
+
+File name: IF.txt
+Total number of words in IF.txt:287
+Top 3 most occurring words and their count: [('you', 14), ('If', 13), ('can', 12)]
+
+Aggregated word count of all the files: 319
+
+
+Your Computer Name is: sameers-mbp.wifi.uc.edu
+Your Computer IP Address is: 10.11.181.222
